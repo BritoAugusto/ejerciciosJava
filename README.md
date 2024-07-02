@@ -1,11 +1,10 @@
 # Trabajo Práctico 1- Variables
 
-Este es un trabajo práctico donde se realiza ejercicios con javascript.
+Este es un trabajo práctico donde se realiza ejercicios con javascript utilizando variables y condicionales.
 
 ## Tecnologias Utilizadas 🛠️
 
-- [Bootstrap v5.3](https://getbootstrap.com/)
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTML]([https://getbootstrap.com/](https://developer.mozilla.org/en-US/docs/Web/HTML))
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Como usar este repositorio
